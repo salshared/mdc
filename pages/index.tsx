@@ -27,7 +27,7 @@ export default function Home() {
   }>({
     messages: [
       {
-        message: 'Hi, what would you like to learn about this legal case?',
+        message: 'Hi, ask me anything about MDC ratings between March 13 and 25th. eg: "What was the most recent action for Harvest CLO?" ',
         type: 'apiMessage',
       },
     ],
